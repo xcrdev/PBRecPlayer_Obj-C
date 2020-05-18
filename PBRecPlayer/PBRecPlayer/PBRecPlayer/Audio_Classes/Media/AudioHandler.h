@@ -15,7 +15,7 @@
 #import "BufferQueue.h"
 #import "G729Wrapper.h"
 #import "TPCircularBuffer.h"
-#import "AudioRouter.h"
+//#import "AudioRouter.h"
 
 #import <AVFoundation/AVFoundation.h>
 
